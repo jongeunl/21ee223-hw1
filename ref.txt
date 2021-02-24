@@ -1,0 +1,3 @@
+Hi there
+Please input a number and then hit return
+Half of your number is 19.5
